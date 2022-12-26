@@ -6,9 +6,9 @@ This isn't a fully finished project. If you are interested, feel free to reach o
 
 ## Description
 
-This research project attempts to use a tailored version of Improved Gravity Model of Accessibility on a pixel-level and regression analysis to examine the spatial equity of PEVCSs in the context of Shanghai, China. Its main contributions can be summarized by
+This research project attempts to use a tailored version of Improved Gravity Model of Accessibility on a pixel-level and regression analysis to examine the spatial equity of public electric vehicle charging stations (PEVCSs) in the context of Shanghai, China. Its main contributions can be summarized by
 
-* Developed a novel and easy-to-implement version of Improved Gravity Model (IGM) that is tailored to calculating the accessibility of PEVCSs, capturing the travel cost, PEVCS service capacity, and charging demand in a more integrated way.
+* Developed a novel and easy-to-implement version of Improved Gravity Model that is tailored to calculating the accessibility of PEVCSs, capturing the travel cost, PEVCS service capacity, and charging demand in a more integrated way.
 * Proposed a framework for the spatial equity analysis on a pixel level that can reflect the spatial equity of each general piece of land in a city with all the data sourced from publicly available platforms.
 * Qualitatively and quantatively analyzed the PEVCS accessibility in Shanghai from a perspective of spatial equity.
 
