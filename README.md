@@ -10,7 +10,7 @@ This research project attempts to use a tailored version of Improved Gravity Mod
 
 * Developed a novel and easy-to-implement version of Improved Gravity Model that is tailored to calculating the accessibility of PEVCSs, capturing the travel cost, PEVCS service capacity, and charging demand in a more integrated way.
 * Proposed a framework for the spatial equity analysis on a pixel level that can reflect the spatial equity of each general piece of land in a city with all the data sourced from publicly available platforms.
-* Qualitatively and quantatively analyzed the PEVCS accessibility in Shanghai from a perspective of spatial equity.
+* Qualitatively and quantitatively analyzed the PEVCS accessibility in Shanghai from a perspective of spatial equity.
 
 ## Report
 
